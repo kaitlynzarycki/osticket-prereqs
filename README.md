@@ -22,13 +22,14 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Enable Internet Information Service 
-- Install web platform installer
-- Install mySQL and set up username and password
-- Install C++ and Redistributal 
-- Configure Permissions and install osTicket
-
-<h2>Installation Steps</h2>
+- Azure Virtual Machine
+-Internet Information Services (IIS)
+-PHP Manager
+-Rewrite Module
+-VC Redist
+-MySQL
+-Heidi SQL
+osTicket v1.15.8<h2>Installation Steps</h2>
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
