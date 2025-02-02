@@ -29,7 +29,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 -VC Redist
 -MySQL
 -Heidi SQL
-osTicket v1.15.8<h2>Installation Steps</h2>
+-osTicket v1.15.8
+
+<h2>Installation Steps</h2>
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
